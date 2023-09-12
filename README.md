@@ -40,7 +40,7 @@ Luego, cree la imagen de Docker:
 
 Ahora que RoxsGPT  está configurado, puede ejecutarlo desde la línea de comando usando
     
-    ./roxsgpt 
+    ./roxsgpt.sh 
 
 o con docker 
 
