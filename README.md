@@ -4,7 +4,7 @@
 <p align="center" width="100%">
     Version Beta 1.0.0 | by @roxsross<br>
   <br>
-    <img width="80%" src="https://roxsross-linktree.s3.amazonaws.com/roxsgpt.png"> 
+    <img width="50%" src="https://roxsross-linktree.s3.amazonaws.com/roxsgpt3.png"> 
 </p>
 
 
