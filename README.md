@@ -38,7 +38,13 @@ Luego, cree la imagen de Docker:
 
 ## Como funciona
 
-Ahora que RoxsGPT  está configurado, puede ejecutarlo desde la línea de comando usando ./roxsgpt o con docker run -it roxsgpt(dependiendo de cómo lo instaló).
+Ahora que RoxsGPT  está configurado, puede ejecutarlo desde la línea de comando usando
+    
+    ./roxsgpt 
+
+o con docker 
+
+    docker run -it roxsgpt(dependiendo de cómo lo instaló y como gestionó la etiquetas).
 
 Esto iniciará a RoxsGPT , a través de la cual podrá interactuar con GPT-3.5/*proximamente GPT-4. para salir con Ctrl+C, Ctrl+D o escribiendo /quit
 
