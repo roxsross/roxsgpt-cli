@@ -20,6 +20,7 @@ Antes de usar RoxsGPT , debe configurar su clave API de OpenAI
 ### Configuración de OpenAI
 Puede configurar su clave API de OpenAI guardándola en un archivo llamado openai.txt
 en el root o con la variable de entorno OPENAI_API_KEY.
+`export OPENAI_API_KEY=xxxxx´
 
 Si se establece, la variable de entorno anulará cualquier contenido de key.txt.
 
